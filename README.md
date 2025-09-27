@@ -1,11 +1,11 @@
 # SIMPLE_AUTH
 
-![Login](./public/results/login_thanhcong.png)  
-![Logout](./public/results/logout_thatbai.png)  
-![MongoDB](./public/results/Postman_Test_Welcome_API.png)
+![Login](./public/results/basic/login_thanhcong.png)  
+![Logout](./public/results/basic/login_thatbai.png)  
+![MongoDB](./public/results/basic/Postman_Test_Welcome_API.png)
 
 # COOKIE_SESSION_AUTH
- 
-![Login](./public/results/login.png)   
-![Logout](./public/results/logout.png)  
-![MongoDB](./public/results/mongodb.png)
+
+![Login](./public/results/cookie/login.png)  
+![Logout](./public/results/cookie/logout.png)  
+![MongoDB](./public/results/cookie/mongodb.png)
